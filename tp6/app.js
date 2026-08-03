@@ -12,23 +12,23 @@ btn1.onclick = function () {
 text.textContent="hola"
 }
 btn2.onclick = function () {
-    text.style.backgroundColor = 'red'
-    }
+   text.style.backgroundColor = 'red'
+   }
  btn3.onclick = function () {
-    text.style.color = 'green'
+   text.style.color = 'green'
  }
  btn4.onclick = function () {
-    text.style.fontFamily = 'IMPACT'
-    }
+   text.style.fontFamily = 'IMPACT'
+   }
 btn5.onclick = function () {
-        text.style.fontSize = '30px'
-        }
+   text.style.fontSize = '30px'
+   }
 btn6.onclick = function () {
-            text.textContent="67"
-            text.style.fontSize = '10px'
-            text.style.fontFamily = 'Cambria'
-            text.style.color = 'black'
-            text.style.backgroundColor = 'purple'
-            }
+   text.textContent="67"
+   text.style.fontSize = '10px'
+   text.style.fontFamily = 'Cambria'
+   text.style.color = 'black'
+   text.style.backgroundColor = 'purple'
+   }
 
     
